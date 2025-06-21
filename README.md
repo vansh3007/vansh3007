@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Vansh Shrivastava
 
-<!--
-**vansh3007/vansh3007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👀 About Me
+I'm passionate about **software development** and **electronics & communication**. I enjoy solving problems and building meaningful digital solutions that make a difference.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
+I'm currently diving deep into **web development** and **mobile app development**, exploring modern frameworks and tools to sharpen my full-stack development skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+Feel free to reach out via email: **vanshshrivastava30@gmail.com**
+
+## 😄 Fun Fact
+I'm a highly ambitious individual who thrives on challenges and continuous learning.
